@@ -99,7 +99,7 @@ shimmer: ^3.0.0            # Loading skeleton
 intl: ^0.19.0              # Format harga Rupiah
 ```
 
-## Nama: [Nama Lengkap]
+## Nama: Arum Rizky Ramadhani
 ## NIM: 247006111016
 ## Kelas: A
 ## Mata Kuliah: Pengembangan Aplikasi Berbasis Platform
