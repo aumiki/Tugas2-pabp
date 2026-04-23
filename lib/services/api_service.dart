@@ -4,7 +4,7 @@ import '../models/product.dart';
 import '../models/user.dart';
 
 class ApiService {
-  static const String baseUrl = 'http://192.168.1.12:5000';
+  static const String baseUrl = 'http://192.168.1.8:5000';
 
   // ─── AUTH ───────────────────────────────────────────────
 
